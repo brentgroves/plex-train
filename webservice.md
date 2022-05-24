@@ -1,0 +1,1 @@
+Go to https://test.plexonline.com, You have to go Directly to this site. You can't switch databases from production. And you must have the Cumulus extension installed. 
